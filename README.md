@@ -4,10 +4,6 @@ Dockerized SSH service, built on top of [official Ubuntu](https://registry.hub.d
 
 ## Image tags
 
-- antarasi/ubuntu-sshd:12.04 (precise)
-- antarasi/ubuntu-sshd:12.10 (quantal)
-- antarasi/ubuntu-sshd:13.04 (raring)
-- antarasi/ubuntu-sshd:13.10 (saucy)
 - antarasi/ubuntu-sshd:14.04 (trusty)
 - antarasi/ubuntu-sshd:16.04 (xenial)
 - antarasi/ubuntu-sshd:18.04 (bionic)
